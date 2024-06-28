@@ -22,7 +22,6 @@ For all questions related to sponsorship please contact me via email sweetalert2
 <tr>
 <td align="center"><a href="SPONSORS.md#sponsors"><img src="https://sweetalert2.github.io/images/plus.png" width="80"><br>Become a sponsor</a></td>
 <td align="center"><a href="https://www.coinbit.fi/"><img src="https://sweetalert2.github.io/images/sponsors/coinbit.png" width="80"><br>Kryptovaluutat</a></td>
-<td align="center"><a href="https://www.vancouvercoir.com/"><img src="https://sweetalert2.github.io/images/sponsors/vancouvercoir.png" width="80"><br>Vancouver Coir</a></td>
 <td align="center"><a href="https://dlxplugins.com/"><img src="https://avatars.githubusercontent.com/u/106675919?s=200&v=4" width="80"><br>DLX Plugins</a></td>
 <td align="center"><a href="https://github.com/tiagostutz"><img src="https://avatars0.githubusercontent.com/u/3986989?s=80&v=4" width="80"><br>Tiago de Oliveira Stutz</a></td>
 </tr>
@@ -48,16 +47,16 @@ NSFW Sponsors
 <table>
 <tr>
 <td align="center"><a href="SPONSORS.md#sponsors"><img src="https://sweetalert2.github.io/images/plus.png" width="80"><br>Become a NSFW sponsor</a></td>
+<td align="center"><a href="https://www.sosexdoll.com/cheap-sex-doll"><img src="https://sweetalert2.github.io/images/sponsors/sosexdoll.png" width="80"><br>SoSexDoll</a></td>
+<td align="center"><a href="https://aeroescorts.com/"><img src="https://sweetalert2.github.io/images/sponsors/aeroescorts.png" width="80"><br>AeroEscorts</a></td>
 <td align="center"><a href="https://www.hismith.co.uk/"><img src="https://sweetalert2.github.io/images/sponsors/hismith.png" width="80"><br>Hismith</a></td>
 <td align="center"><a href="https://dollauthority.com/"><img src="https://sweetalert2.github.io/images/sponsors/dollauthority.png" width="80"><br>Doll Authority</a></td>
 <td align="center"><a href="https://dreamlovedoll.com/"><img src="https://sweetalert2.github.io/images/sponsors/dreamlovedoll.jpg" width="80"><br>DreamLoveDoll</a></td>
-<td align="center"><a href="https://thepinkrabbits.com/"><img src="https://sweetalert2.github.io/images/sponsors/thepinkrabbits.png" width="80"><br>The Pink Rabbits</a></td>
 </tr>
 </table>
 <table>
 <tr>
 <td align="center"><a href="https://www.sexdollpartner.com/"><img src="https://sweetalert2.github.io/images/sponsors/sexdollpartner.jpg" width="80"><br>SexDollPartner</a></td>
-<td align="center"><a href="https://nexromance.com/playstore/index.php?sweetalert"><img src="https://sweetalert2.github.io/images/sponsors/chatforsex.jpg" width="80"><br>ChatGPT for Sex</a></td>
 <td align="center"><a href="https://www.xspacecup.com/"><img src="https://sweetalert2.github.io/images/sponsors/xspacecup.png" width="80"><br>XspaceCup</a></td>
 <td align="center"><a href="https://vlixa.com/"><img src="https://sweetalert2.github.io/images/sponsors/vlixa.png" width="80"><br>Vlixa</a></td>
 <td align="center"><a href="https://sexsitoys.com/lovense-games/"><img src="https://sweetalert2.github.io/images/sponsors/sexsitoys.jpg" width="80"><br>Sexsi Toys</a></td>
